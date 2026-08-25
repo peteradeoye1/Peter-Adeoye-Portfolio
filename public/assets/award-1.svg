@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F4F0E9"/>
+  <rect x="80" y="90" width="1040" height="620" rx="28" fill="#E7F0F5" stroke="#B7D1DD" stroke-width="4"/>
+  <circle cx="600" cy="320" r="150" fill="#D4B66A" opacity="0.15"/>
+  <path d="M470 215H730C759.823 215 784 239.177 784 269V332C784 361.823 759.823 386 730 386H470C440.177 386 416 361.823 416 332V269C416 239.177 440.177 215 470 215Z" fill="#D4B66A"/>
+  <path d="M520 183L600 130L680 183V267H520V183Z" fill="#B98E25"/>
+  <path d="M505 430C542.5 392.8 565 372 600 372C635 372 657.5 392.8 695 430V528H505V430Z" fill="#1F2D3D"/>
+  <path d="M462 528H738V566C738 588.091 720.091 606 698 606H502C479.909 606 462 588.091 462 566V528Z" fill="#1A2540"/>
+  <rect x="310" y="615" width="580" height="28" rx="14" fill="#D4B66A" opacity="0.7"/>
+  <text x="600" y="650" text-anchor="middle" fill="#1B1B1B" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">RENEWABLE ENERGY EXCELLENCE</text>
+</svg>

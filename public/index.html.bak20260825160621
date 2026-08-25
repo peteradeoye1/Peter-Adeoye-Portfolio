@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Peter Adeoye is a renewable energy professional focused on solar PV design, hybrid energy systems, and sustainable project delivery."
+    />
+    <title>Peter Adeoye | Renewable Energy Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Manrope:wght@400;500;600;700;800&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <div class="container nav-wrap">
+          <a href="#top" class="brand" aria-label="Peter Adeoye home">Peter<span>Adeoye</span></a>
+
+          <button class="menu-toggle" aria-expanded="false" aria-label="Open menu">
+            <span></span><span></span><span></span>
+          </button>
+
+          <nav class="site-nav" aria-label="Main navigation">
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#experience">Experience</a>
+            <a href="#awards">Awards</a>
+            <a href="#work">Projects</a>
+            <a href="#certifications">Certifications</a>
+            <a href="#contact">Contact</a>
+          </nav>
+
+          <a href="#contact" class="button button-primary nav-cta">Book a call</a>
+        </div>
+      </header>
+
+      <main id="top">
+        <section class="hero section">
+          <div class="container hero-grid">
+            <div class="hero-copy">
+              <p class="eyebrow">Available for renewable energy projects</p>
+              <h1>I design clean power systems that unlock resilient, efficient operations.</h1>
+              <p class="lede">
+                I’m Peter Adeoye, a renewable energy professional with over five years of experience delivering solar PV,
+                hybrid power, and energy optimization projects for residential, commercial, and industrial clients.
+              </p>
+
+              <div class="hero-actions">
+                <a href="#work" class="button button-primary">View projects</a>
+                <a href="#about" class="button button-secondary">About me</a>
+              </div>
+
+              <ul class="social-links" aria-label="Social media links">
+                <li><a href="https://www.linkedin.com/in/peter-adeoye" target="_blank" rel="noreferrer">LinkedIn</a></li>
+                <li><a href="mailto:adeoyepeter2015@gmail.com">Email</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+              </ul>
+            </div>
+
+            <aside class="hero-panel" aria-label="Photo showcase">
+              <div class="photo-showcase">
+                <figure class="photo-card photo-card-large">
+                  <img
+                    src="https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=900&q=80"
+                    alt="Solar panels in the field"
+                  />
+                </figure>
+                <figure class="photo-card photo-card-small">
+                  <img
+                    src="/assets/profile-portrait.png"
+                    alt="Portrait of Peter Adeoye"
+                  />
+                </figure>
+                <div class="photo-label">
+                  <span class="dot"></span>
+                  <span>Pictures</span>
+                </div>
+              </div>
+            </aside>
+          </div>
+        </section>
+
+        <section id="about" class="section about">
+          <div class="container split-layout">
+            <div>
+              <p class="eyebrow">About</p>
+              <h2>Delivering practical energy solutions, from design to deployment.</h2>
+            </div>
+            <div>
+              <p>
+                Dynamic and results-oriented renewable energy professional with over five years of experience in designing,
+                implementing, and managing sustainable energy projects. I combine technical expertise in solar PV systems,
+                energy auditing, and hybrid power solutions with disciplined project execution to improve energy reliability
+                and support long-term sustainability goals.
+              </p>
+              <p>
+                I use simulation and design tools such as HOMER, PVsyst, Helioscope, AutoCAD, SketchUp, and ArcGIS to
+                optimize performance, prepare BOQs and SLDs, and deliver value across the entire project lifecycle. My work
+                spans commercial, industrial, and off-grid environments with a strong focus on innovation, quality, and
+                measurable impact.
+              </p>
+            </div>
+          </div>
+
+          <div class="container stats-grid" aria-label="Key stats">
+            <article>
+              <strong>5+</strong>
+              <span>Years in renewable energy and solar design</span>
+            </article>
+            <article>
+              <strong>15+</strong>
+              <span>Solar and hybrid projects delivered or led</span>
+            </article>
+            <article>
+              <strong>6</strong>
+              <span>Simulation and design tools used in the field</span>
+            </article>
+            <article>
+              <strong>∞</strong>
+              <span>Commitment to sustainable energy access</span>
+            </article>
+          </div>
+        </section>
+
+        <section id="work" class="section work">
+          <div class="container section-heading">
+            <div>
+              <p class="eyebrow">Projects</p>
+              <h2>Renewable energy systems and infrastructure delivering measurable impact.</h2>
+            </div>
+            <a href="#contact" class="text-link">Let’s collaborate</a>
+          </div>
+
+          <div class="container cards-grid">
+            <article class="project-card featured project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/ratcon/project-1-a.png" alt="RATCON solar PV rooftop installation" />
+                <img src="/assets/projects/ratcon/project-1-b.png" alt="RATCON battery and inverter room installation" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Hybrid power</span>
+                  <span class="project-date">Sep 2025 – Present</span>
+                </div>
+                <h3>236.64kWp+400kWh+250kWac PV-Hybrid Capacity at RATCON Construction Limited (Eko Pearl), Uyo, Akwa Ibom State, Nigeria.</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  The project involved the installation of a 236.64 kWp Solar PV system, 400 kWh Battery Energy Storage
+                  System (BESS), and 250 kW AC PV-Hybrid System at RATCON Construction Limited (Eko Pearl) in Uyo, Akwa
+                  Ibom State, Nigeria.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools:</strong> SketchUp, Homer Pro and Autocad</p>
+                  <p><strong>Technologies used:</strong> Solar PV modules, hybrid inverters, lithium-ion battery storage systems, energy monitoring and management systems, electrical protection and distribution equipment, and PV system design and simulation tools.</p>
+                </div>
+
+                <div class="project-full" aria-live="polite">
+                  <p>
+                    The project was designed to provide a reliable, cost-effective, and sustainable alternative power
+                    solution for the facility’s daily operations.
+                  </p>
+                  <p>
+                    The hybrid system integrates solar photovoltaic generation, battery energy storage, and the existing
+                    utility/grid infrastructure to improve power reliability, reduce dependence on conventional power
+                    sources, and optimize energy consumption.
+                  </p>
+                  <p>
+                    <strong>System design and performance:</strong> The project uses PV system design and simulation tools
+                    for system sizing, energy analysis, and performance assessment to ensure reliable operation and optimized
+                    energy consumption.
+                  </p>
+                </div>
+
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/medicus/medicus-1.png" alt="Medicus Industries solar rooftop installation in Kano" />
+                <img src="/assets/projects/medicus/medicus-2.png" alt="Medicus Industries solar installation aerial view in Kano" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Grid-tie</span>
+                  <span class="project-date">Apr 2026 – Aug 2026</span>
+                </div>
+                <h3>272.8kWp+240kWac PV Diesel System for Medicus Industries Limited, Kano, Nigeria.</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  Contributed to the design and development of a 272.8 kWp Solar PV and 240 kWac PV-Diesel hybrid power
+                  system for Medicus Industries in Kano, Nigeria.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools:</strong> SketchUp, Homer Pro and Autocad</p>
+                  <p><strong>Technologies used:</strong> Solar PV modules, hybrid inverters, lithium-ion battery storage systems, energy monitoring and management systems, electrical protection and distribution equipment, and PV system design and simulation tools.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The project focused on developing an efficient and reliable renewable energy solution to reduce dependence
+                    on diesel generation while improving the facility’s overall energy performance.
+                  </p>
+                  <p>
+                    Key responsibilities included solar PV system design, site and layout optimization, energy yield assessment,
+                    shading analysis, and preparation of electrical system schematics. Industry-standard tools such as SketchUp,
+                    PVWatts, and AutoCAD were utilized for 3D site modelling, solar resource and energy-generation analysis, PV
+                    layout optimization, and detailed system drawings.
+                  </p>
+                  <p>
+                    Collaborated with engineering, procurement, and commercial teams to develop accurate project cost estimates,
+                    equipment specifications, and procurement strategies, supporting the preparation of a competitive commercial
+                    offer.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/ubereness/ubereness-1.png" alt="Ubereness Nigeria solar PV layout design" />
+                <img src="/assets/projects/ubereness/ubereness-2.png" alt="Ubereness Nigeria solar energy generation and shading results" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Grid-tie</span>
+                  <span class="project-date">Dec 2025 – May 2026</span>
+                </div>
+                <h3>558 kWp + 500 kWac PV-Diesel Hybrid Solution for Ubereness Nigeria Limited, Ibadan</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  Designed a 558 kWp Solar PV-Diesel Hybrid System aimed at reducing diesel fuel consumption and dependence
+                  on grid electricity by integrating solar energy generation into the facility’s existing power infrastructure.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> PVSITS for energy generation calculation, PVWatts for solar energy yield estimation and system performance analysis, AutoCAD for electrical and system schematics, and SketchUp for site modelling, PV layout design, and visualization.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The system was designed to support daily facility operations while improving energy efficiency, reducing
+                    operational costs, and promoting the adoption of renewable energy.
+                  </p>
+                  <p>
+                    The proposed system is expected to generate approximately 744,924 kWh of electricity annually, providing
+                    significant potential savings in energy costs and diesel consumption while improving the facility’s overall
+                    energy sustainability.
+                  </p>
+                  <p>
+                    These tools supported the optimization of the system design, energy generation assessment, and development
+                    of technical project documentation.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/ibadan/ibadan-1.png" alt="Ibadan on-grid solar installation aerial view" />
+                <img src="/assets/projects/ibadan/ibadan-2.png" alt="Ibadan solar implementation and site layout" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Grid-tie</span>
+                  <span class="project-date">January 2026</span>
+                </div>
+                <h3>563.1 kWp PV On-Grid Solar Power Project in Ibadan, Oyo State</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  Contributed to the delivery of a 563.1 kWp Solar PV On-Grid Power Project in Ibadan, Oyo State, designed
+                  to increase renewable energy generation, optimize power utilization, and reduce the facility’s dependence on
+                  grid electricity and conventional fuel sources.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> AutoCAD for electrical system schematics and technical drawings, SketchUp for PV system layout and site visualization, PVWatts for solar energy yield estimation and performance analysis, and remote monitoring platforms for real-time system performance tracking.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The project involved the supply, installation, testing, and commissioning of a complete solar power solution
+                    comprising 500 kW PV on-grid inverters, 563.1 kWp solar PV capacity, Fuel Save Controller panels, AC power
+                    combiner boxes, equipment installation and positioning, and a remote online monitoring system.
+                  </p>
+                  <p>
+                    The system was designed to intelligently coordinate solar PV generation, grid supply, and generator operation,
+                    while the Fuel Save Controller provided generation monitoring and reverse-power protection to safeguard the
+                    generator system and maximize solar energy utilization.
+                  </p>
+                  <p>
+                    The project contributes to improved energy efficiency, reduced fuel consumption and operating costs,
+                    increased renewable energy utilization, and lower carbon emissions.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/ongoing-13mw/ongoing-13mw-1.png" alt="Ongoing 1.3 MWp solar PV installation in progress" />
+                <img src="/assets/projects/ongoing-13mw/ongoing-13mw-2.png" alt="1.3 MWp solar PV site development and array layout" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Grid-tie</span>
+                  <span class="project-date">April 2026</span>
+                </div>
+                <h3>1.3 MWp Solar PV System – Ongoing Installation</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  Contributed to the ongoing installation of a 1.3 MWp Solar PV system by Jubaili Bros, designed to provide a
+                  reliable and sustainable renewable energy solution while improving energy efficiency and reducing dependence on
+                  conventional power sources.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> AutoCAD for electrical drawings and system schematics, SketchUp for site modelling and PV array layout, and PVWatts for solar energy yield estimation and performance analysis.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The project utilizes JA Solar PV modules, GoodWe inverters, and DEIF controllers to deliver efficient solar
+                    power generation and intelligent energy management.
+                  </p>
+                  <p>
+                    These tools supported the design validation, system optimization, and technical planning of the solar PV
+                    installation.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/malik-farmland/malik-farmland-1.png" alt="Malik Farmland solar plus BESS design and site installation" />
+                <img src="/assets/projects/malik-farmland/malik-farmland-2.png" alt="Malik Farmland battery storage and PV array model" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Grid-tie</span>
+                  <span class="project-date">January 2026</span>
+                </div>
+                <h3>662 kWp Solar PV + 1.2 MWh Battery Energy Storage System (BESS) – Malik Farmland, Ibadan, Oyo State</h3>
+                <p class="project-company">Associated with: Jubili bros</p>
+                <p class="project-preview">
+                  Led the engineering team in the design, modelling, and ongoing implementation of a 662 kWp Solar PV system
+                  integrated with a 1.2 MWh Battery Energy Storage System (BESS) and 500 kW AC power capacity for Malik
+                  Farmland in Ibadan, Oyo State.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> AutoCAD for electrical drawings and system schematics, SketchUp for site modelling and PV layout design, and PVWatts for solar resource assessment and energy yield estimation. Additional BESS sizing and energy modelling tools were used to assess battery capacity, system performance, and overall energy optimization.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The project, which commenced in January 2026 and is currently ongoing, is focused on developing a reliable
+                    and efficient hybrid energy solution to support the facility’s power requirements while improving renewable
+                    energy utilization and reducing dependence on conventional power sources.
+                  </p>
+                  <p>
+                    Key responsibilities include system sizing, PV array design, battery storage configuration, energy modelling,
+                    electrical system design, equipment selection, and coordination of implementation activities.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/gonzaga/gonzaga-1.png" alt="Gonzaga Jesuit College solar PV project layout" />
+                <img src="/assets/projects/gonzaga/gonzaga-2.png" alt="Gonzaga Jesuit College solar PV assessment map" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Hybrid</span>
+                  <span class="project-date">Feb 2024 – Apr 2024</span>
+                </div>
+                <h3>74kW Solar Hybrid System Solution for GONZAGA JESUIT COLLEGE, Okija, Anambra State, Nigeria</h3>
+                <p class="project-company">Associated with: Auxano Solar Nig. Ltd</p>
+                <p class="project-preview">
+                  Led the design, costing, and project initiation of a 74 kW Solar Hybrid System incorporating an estimated
+                  82 kWp Solar PV array and 225 kWh lithium-based Battery Energy Storage System (BESS).
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> AutoCAD for system drawings and electrical schematics, SketchUp for PV layout and site modelling, and PVWatts for solar resource assessment and energy yield estimation.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    The project was designed to provide a reliable and efficient renewable energy solution while reducing
+                    dependence on diesel-powered generators.
+                  </p>
+                  <p>
+                    As the technical lead, I was responsible for system sizing and design, PV and battery configuration, energy
+                    assessment, equipment selection, technical costing, and project planning. I also prepared key project and
+                    commercial documentation, including the Bill of Quantities (BoQ), Proforma Invoice (PI), Purchase Requests
+                    (PR), Service Level Agreements (SLA), and Statements of Work (SOW).
+                  </p>
+                  <p>
+                    The system is strategically designed to reduce generator runtime, diesel consumption, maintenance costs, and
+                    carbon emissions, while improving overall energy efficiency and sustainability.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+
+            <article class="project-card project-card-clickable">
+              <div class="project-media">
+                <img src="/assets/projects/assa-north/assa-north-1.png" alt="ASSA North streetlight installation packaging and site preparation" />
+                <img src="/assets/projects/assa-north/assa-north-2.png" alt="ASSA North streetlight pole installation in Imo State" />
+              </div>
+              <div class="project-copy">
+                <div class="project-meta">
+                  <span class="card-tag">Hybrid</span>
+                  <span class="project-date">May 2023 – Jun 2023</span>
+                </div>
+                <h3>Solar Streetlight Project of 3000+ kilometers of Area Coverage for ASSA North-ANOH Security Enhancement, Imo State, Nigeria</h3>
+                <p class="project-company">Associated with: Auxano Solar Nig. Ltd</p>
+                <p class="project-preview">
+                  Led the design, planning, and implementation supervision of a large-scale solar streetlight installation
+                  project covering over 3,000 km of area under the Assa North-Ohaji South (ANOH) Security Enhancement Project
+                  in Imo State, Nigeria.
+                </p>
+                <div class="project-tools">
+                  <p><strong>Tools and technologies used:</strong> AutoCAD for technical drawings and streetlight layout design.</p>
+                </div>
+                <div class="project-full">
+                  <p>
+                    As the project lead, I was responsible for solar streetlight system design, site assessment, technical
+                    planning, equipment selection, layout development, and coordination of installation activities to ensure
+                    effective lighting coverage across the facility and surrounding onshore areas.
+                  </p>
+                  <p>
+                    The project was designed to strengthen security infrastructure and improve visibility and safety around the
+                    greenfield gas condensate development area. I coordinated with Shell and Oilserv personnel to ensure
+                    compliance with project requirements, technical specifications, safety standards, and installation schedules.
+                  </p>
+                </div>
+                <button type="button" class="text-link project-link project-toggle" data-expanded="false" aria-expanded="false">
+                  Learn more
+                </button>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="skills" class="section skills-section">
+          <div class="container section-heading skills-heading">
+            <div>
+              <p class="eyebrow">Skills</p>
+            </div>
+          </div>
+
+          <div class="container skills-grid">
+            <article class="skill-card">
+              <h3>Technical &amp; Engineering Skills</h3>
+              <ul>
+                <li><strong>Solar PV &amp; Hybrid Design:</strong> System modeling, load sizing, Single Line Diagrams (SLDs), Bills of Materials (BOMs), and On/Off-grid PV integration.</li>
+                <li><strong>Energy Auditing:</strong> Walk-through and diagnostic energy audits, energy yield analysis, and efficiency optimization.</li>
+                <li><strong>Design &amp; Simulation Software:</strong> PVsyst, Helioscope, HOMER, AutoCAD, SketchUp, PVWatts, ArcGIS, QGIS, MATLAB, and FinPlan Model.</li>
+                <li><strong>Field &amp; Testing Equipment:</strong> AC/DC Multimeter, DC Clamp Meter, Lux Meter, Solar Power Meter, Inclinometer, Battery Analyzer Tester, and Hydrometer.</li>
+              </ul>
+            </article>
+
+            <article class="skill-card">
+              <h3>Project &amp; Business Management</h3>
+              <ul>
+                <li><strong>Project Management:</strong> End-to-end site management, technical supervision, project scheduling, risk management, and HSE protocol adherence.</li>
+                <li><strong>Business Development &amp; Technical Sales:</strong> Bid preparation (RFP, RFQ, PFI), client proposals, costing/pricing, Service Level Agreements (SLA), and Scope of Work (SOW) drafting.</li>
+              </ul>
+
+              <div class="soft-skills">
+                <h4>Soft Skills</h4>
+                <ul>
+                  <li>Leadership &amp; Teamwork</li>
+                  <li>Analytical Problem-Solving</li>
+                  <li>Cross-Functional Collaboration</li>
+                  <li>Technical Communication &amp; Presentation</li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="experience" class="section experience-section">
+          <div class="container section-heading">
+            <div>
+              <p class="eyebrow">Experience</p>
+              <h2>Career history and delivery across renewable energy projects.</h2>
+            </div>
+          </div>
+
+          <div class="container experience-list">
+            <article class="experience-item">
+              <div class="experience-topline">
+                <span class="experience-date">Apr. 2024 — Present</span>
+                <span class="experience-company">Jubaili Bros Engineering Limited</span>
+              </div>
+              <h3>Solution Engineer (Renewable)</h3>
+              <ul>
+                <li>Oversee the full lifecycle of solar projects, from energy yield modeling and technical sales support to cost estimation and design execution.</li>
+                <li>Deliver commercial, industrial, and residential renewable solutions tailored to client energy needs and sustainability objectives.</li>
+                <li>Support project viability through technical analysis, solution design, and stakeholder coordination.</li>
+              </ul>
+            </article>
+
+            <article class="experience-item">
+              <div class="experience-topline">
+                <span class="experience-date">May. 2022 — Mar. 2024</span>
+                <span class="experience-company">Auxano Solar Nig. Ltd.</span>
+              </div>
+              <h3>Technical Expert &amp; Design Engineer</h3>
+              <ul>
+                <li>Designed and implemented multi-megawatt industrial PV, hybrid, and battery energy storage systems across Nigeria.</li>
+                <li>Led technical design activities, performance modeling, and system optimization using PVsyst, Helioscope, and HOMER.</li>
+                <li>Contributed to business development efforts and technical oversight for solar hybrid deployments across 150+ IHS telecom sites.</li>
+                <li>Managed engineering coordination for critical infrastructure and solar streetlight projects spanning more than 3 km.</li>
+              </ul>
+            </article>
+
+            <article class="experience-item">
+              <div class="experience-topline">
+                <span class="experience-date">Sept. 2021 — Dec. 2021</span>
+                <span class="experience-company">ETIWA TECH, Lagos, Nigeria</span>
+              </div>
+              <h3>Graduate Trainee</h3>
+              <ul>
+                <li>Inspected an 85 kWp solar hybrid mini-grid project at Gbamu Gbamu, Ijebu East L.G.A., Ogun State, Nigeria.</li>
+                <li>Conducted energy audits for SHS and C&amp;I facilities to identify energy inefficiencies and propose solutions, using simulation tools such as Helioscope, HOMER, PVsyst, MATLAB, and PVWatts to optimize solar PV system efficiency.</li>
+                <li>Prepared and participated in over 15 technical reports and presentations while emphasizing adherence to Health, Safety, and Environment (HSE) protocols.</li>
+              </ul>
+            </article>
+
+            <article class="experience-item">
+              <div class="experience-topline">
+                <span class="experience-date">July 2020 — Aug. 2020</span>
+                <span class="experience-company">WAVETRA Academy, Lagos, Nigeria</span>
+              </div>
+              <h3>Technician Trainee</h3>
+              <ul>
+                <li>Worked closely with my trainer to install a 5kW solar power system for a duplex apartment.</li>
+                <li>Carried out innovative and comprehensive solutions in solar design for residential projects.</li>
+              </ul>
+            </article>
+          </div>
+        </section>
+
+        <section id="awards" class="section awards-section">
+          <div class="container section-heading">
+            <div>
+              <p class="eyebrow">Awards</p>
+              <h2>Recognition for technical excellence and sustainable impact.</h2>
+            </div>
+          </div>
+
+          <div class="container awards-grid">
+            <article class="award-card">
+              <img src="/assets/award-1-certificate.png" alt="Best Graduating Fellow-Male certificate from Sirius-X Energy Academy" />
+              <div class="award-copy">
+                <span class="award-date">September 2025</span>
+                <h3>Best Graduating Fellow – Male</h3>
+                <p>
+                  Honoured to be awarded the Best Male Graduand from the Sirius-X Energy Fellowship training. This
+                  distinction acknowledges my commitment to advancing clean energy knowledge and solutions, as well as my
+                  demonstrated leadership and resilience throughout the program.
+                </p>
+              </div>
+            </article>
+
+            <article class="award-card">
+              <img src="/assets/award-2-certificate.png" alt="Certificate of Distinction from Sirius-X Energy Academy" />
+              <div class="award-copy">
+                <span class="award-date">September 2025</span>
+                <h3>Certificate of Distinction</h3>
+                <p>
+                  I was awarded the certificate of distinction in the concluded Sirius-X Energy Fellowship cohort 2,
+                  attaining a grade score above 90%.
+                </p>
+              </div>
+            </article>
+
+            <article class="award-card">
+              <img src="/assets/award-3-certificate.png" alt="Outstanding project award certificate from Sirius-X Energy Academy" />
+              <div class="award-copy">
+                <span class="award-date">September 2025</span>
+                <h3>Outstanding Project Research Award</h3>
+                <p>
+                  Excited to share that Team White emerged as winners of the Award for the Most Innovative and Creative
+                  Capstone Project and the 2nd Best Project in the Sirius-X Energy Fellowship Cohort 2. As the Project Team
+                  Lead, leading a diverse team of brilliant minds from different backgrounds and cultures was truly a
+                  rewarding experience. Together, we worked on “Clean Energy Access for Marginalized Communities in Nigeria,”
+                  a project designed to drive sustainable solutions for energy equity.
+                </p>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        
+
+        <section id="publications" class="section writing">
+          <div class="container section-heading">
+            <div>
+              <p class="eyebrow">Publications</p>
+              <h2>Research and writing in renewable energy, sustainability, and solar deployment.</h2>
+            </div>
+          </div>
+
+          <div class="container writing-grid">
+            <article class="article-card">
+              <p class="meta">Journal · 2026</p>
+              <h3>Decentralized Renewable Energy Solutions for Internally Displaced Persons (IDPs) in North-east Nigeria: Barriers, Feasibility, and Policy Gaps</h3>
+              <p class="publication-meta">American Journal of Science, Engineering and Technology, 11(1), 24–38</p>
+              <a href="https://doi.org/10.11648/j.ajset.20261101.13" target="_blank" rel="noreferrer" class="text-link">Read publication</a>
+            </article>
+
+            <article class="article-card">
+              <p class="meta">Article · Nov. 2021</p>
+              <h3>How to Install Solar Panels; Do’s &amp; Don’ts of PV Module Installation</h3>
+              <p class="publication-meta">Published on Selar.co</p>
+              <a href="https://selar.co" target="_blank" rel="noreferrer" class="text-link">View article</a>
+            </article>
+
+            <article class="article-card">
+              <p class="meta">Article · Dec. 2021</p>
+              <h3>Tackling Climate Change Using Solar Energy</h3>
+              <p class="publication-meta">Published on LinkedIn and Medium</p>
+              <a href="https://www.linkedin.com/in/peter-adeoye" target="_blank" rel="noreferrer" class="text-link">Read more</a>
+            </article>
+          </div>
+        </section>
+
+        <section id="certifications" class="section writing">
+          <div class="container section-heading">
+            <div>
+              <p class="eyebrow">Certifications</p>
+              <h2>Technical training and professional development across energy systems.</h2>
+            </div>
+          </div>
+
+          <div class="container writing-grid">
+            <article class="article-card cert-card">
+              <img src="/assets/certifications/ci-solar-system-design.png" alt="C&I Solar System Design certificate" />
+              <div class="cert-copy">
+                <p class="meta">Issued Mar 2024</p>
+                <h3>C&amp;I Solar System Design</h3>
+                <p class="cert-meta">Issued by: C&amp;I Solar System Design</p>
+              </div>
+            </article>
+
+            <article class="article-card cert-card">
+              <img src="/assets/certifications/master-course-solar-pv-c-and-i-design.png" alt="Master Course on Solar PV C&I Design certificate" />
+              <div class="cert-copy">
+                <p class="meta">Issued August 2024</p>
+                <h3>Master Course on Solar PV C&amp;I Design Using Advanced Tech Tools</h3>
+                <p class="cert-meta">Issued by: C&amp;I Solar System Design</p>
+              </div>
+            </article>
+
+            <article class="article-card cert-card">
+              <img src="/assets/certifications/electrification-smart-power-and-smart-building-abb.png" alt="Electrification Smart Power and Smart Building certificate from ABB" />
+              <div class="cert-copy">
+                <p class="meta">Issued September 2024</p>
+                <h3>Electrification Smart Power and Smart Building</h3>
+                <p class="cert-meta">Issued by: ABB</p>
+              </div>
+            </article>
+
+            <article class="article-card cert-card">
+              <img src="/assets/certifications/geospatial-data-management-energy-access-modelling-climate-compatible-growth.png" alt="Geospatial Data Management for Energy Access Modelling and Planning certificate from Climate Compatible Growth" />
+              <div class="cert-copy">
+                <p class="meta">Issued March 2026</p>
+                <h3>Geospatial Data Management for Energy Access Modelling and Planning</h3>
+                <p class="cert-meta">Issued by: Climate Compatible Growth</p>
+              </div>
+            </article>
+
+            <article class="article-card cert-card">
+              <img src="/assets/certifications/cfi-financial-analysis-and-modeling-professional-certificate.svg" alt="CFI Financial Analysis and Modeling Professional Certificate" />
+              <div class="cert-copy">
+                <p class="meta">Issued June 2026</p>
+                <h3>CFI Financial Analysis and Modeling Professional Certificate</h3>
+                <p class="cert-meta">Issued by: Corporate Finance Institute® (CFI)</p>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section id="contact" class="section cta-section">
+          <div class="container cta-box">
+            <div>
+              <p class="eyebrow">Let’s work together</p>
+              <h2>Need a renewable energy partner for your next project?</h2>
+            </div>
+            <a href="mailto:adeoyepeter2015@gmail.com" class="button button-primary">adeoyepeter2015@gmail.com</a>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-wrap">
+          <p>© <span id="year"></span> Peter Adeoye</p>
+          <div class="footer-links">
+            <a href="https://www.linkedin.com/in/peter-adeoye" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="mailto:adeoyepeter2015@gmail.com">Email</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="/script.js"></script>
+  </body>
+</html>
